@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashwini%20Suresh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20GenAI%20Builder&descAlignY=55&descSize=18"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwini%20Suresh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwini-suresh)
-[![Email](https://img.shields.io/badge/Email-ashwini.suresh140%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinis12072000@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashwinis12072000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinis12072000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashwinis12072000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinis12072000)
 
 </div>
