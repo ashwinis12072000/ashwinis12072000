@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1299339/screenshots/7133657/media/b74ec85957a4ac0f64b40244a38a88fb.gif"/>
 
 ## 👩‍💻 About Me
 
